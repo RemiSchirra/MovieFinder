@@ -3,7 +3,7 @@ A web application that makes it easy to discover movies similar to others.
 It displays films on a grid, positioning them closer together or further apart based on how similar they are to each other.
 
 ## Demo
-You can try the app with a dataset of 10k movies [here](https://remihiya.github.io/MovieFinder/).
+You can try the app with a dataset of 10k movies [here](https://remischirra.github.io/MovieFinder/).
 
 ## Usage
 To generate your own data, you need to supply 2 values in `constants.py` : 
